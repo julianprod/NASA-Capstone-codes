@@ -1,0 +1,42 @@
+﻿<Window x:Class="Arduinotest.MainWindow"   
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"    
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"    
+        Title="Controller for Arduino v1" Height="750" Width="1020">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="None" ImageSource="Images/mars.jpg" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+
+        <RepeatButton x:Name="FORWARD" Content="FORWARD" HorizontalAlignment="Left" Margin="161,129,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="FORWARD1"/>
+        <TextBlock x:Name="status" HorizontalAlignment="Left" Margin="634,97,0,0" TextWrapping="Wrap" Text="Disconnected" VerticalAlignment="Top" Height="29" Width="94"/>
+        <TextBox x:Name="comportno" HorizontalAlignment="Left" Height="23" Margin="498,95,0,0" TextWrapping="Wrap" Text="COM3" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Connect" Content="Connect" HorizontalAlignment="Left" Margin="498,130,0,0" VerticalAlignment="Top" Width="55" Height="24" Click="Connect_Click"/>
+        <Button x:Name="Disconnect" Content="Disconnect" HorizontalAlignment="Left" Margin="570,130,0,0" VerticalAlignment="Top" Width="79" Height="24" Click="Disconnect_Click"/>
+        <RepeatButton x:Name="RIGHT" Content="RIGHT" HorizontalAlignment="Left" Margin="248,210,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="RIGHT1"/>
+        <RepeatButton x:Name="LEFT" Content="LEFT" HorizontalAlignment="Left" Margin="75,210,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="LEFT1"/>
+        <RepeatButton x:Name="BACK" Content="BACK" HorizontalAlignment="Left" Margin="161,284,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="BACK1"/>
+        <RepeatButton x:Name="BACKLEFT" Content="BACK LEFT" HorizontalAlignment="Left" Margin="95,354,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="BACKLEFT1"/>
+        <RepeatButton x:Name="BACKRIGHT" Content="BACK RIGHT" HorizontalAlignment="Left" Margin="228,354,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="BACKRIGHT1"/>
+        <Button x:Name="TURN360" Content="TURN 360" HorizontalAlignment="Left" Margin="161,479,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="t360"/>
+        <RepeatButton x:Name="TURN360LEFT" Content="TURN 360 LEFT" HorizontalAlignment="Left" Margin="50,479,0,0" VerticalAlignment="Top" Width="95" Height="52" Click="left360"/>
+        <RepeatButton x:Name="TURN360RIGHT" Content="TURN 360 RIGHT" HorizontalAlignment="Left" Margin="264,479,0,0" VerticalAlignment="Top" Width="95" Height="52" Click="right360"/>
+        <Button x:Name="ALIGNWHEELS" Content="ALIGN WHEELS" HorizontalAlignment="Left" Margin="328,143,0,0" VerticalAlignment="Top" Width="130" Height="24" Click="align"/>
+        <Label Content="SHOULDER" HorizontalAlignment="Left" Margin="787,301,0,0" VerticalAlignment="Top" Width="117" Height="36" FontSize="20" Background="#00000000" Foreground="#FF1F8870"/>
+        <RepeatButton x:Name="SUP" Content="UP" HorizontalAlignment="Left" Margin="738,337,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="sup"/>
+        <RepeatButton x:Name="SDOWN" Content="DOWN" HorizontalAlignment="Left" Margin="854,337,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="sdown"/>
+        <Label Content="ELBOW" HorizontalAlignment="Left" Margin="801,397,0,0" VerticalAlignment="Top" Width="83" Height="36" FontSize="20" Foreground="#FF5DFFEA"/>
+        <RepeatButton x:Name="EUP" Content="UP" HorizontalAlignment="Left" Margin="738,438,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="eup"/>
+        <RepeatButton x:Name="EDOWN" Content="DOWN" HorizontalAlignment="Left" Margin="854,438,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="edown"/>
+        <Label Content="WRIST" HorizontalAlignment="Left" Margin="801,511,0,0" VerticalAlignment="Top" Width="72" Height="36" FontSize="20" Foreground="#FF34FFE5"/>
+        <RepeatButton x:Name="WUP" Content="UP" HorizontalAlignment="Left" Margin="738,552,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="wup"/>
+        <RepeatButton x:Name="WDOWN" Content="DOWN" HorizontalAlignment="Left" Margin="854,552,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="wdown"/>
+        <Button x:Name="TEST" Content="TEST" HorizontalAlignment="Left" Margin="811,92,0,0" VerticalAlignment="Top" Width="130" Height="24" Click="test"/>
+        <Label Content="GRIPPER" HorizontalAlignment="Left" Margin="787,609,0,0" VerticalAlignment="Top" Width="103" Height="36" FontSize="20" Foreground="#FF19FBFF"/>
+        <Button x:Name="OPEN" Content="OPEN" HorizontalAlignment="Left" Margin="738,650,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="gopen"/>
+        <Button x:Name="CLOSE" Content="CLOSE" HorizontalAlignment="Left" Margin="854,650,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="gclose"/>
+        <RepeatButton x:Name="WLEFT" Content="STRETCH OUT" HorizontalAlignment="Left" Margin="738,231,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="sout"/>
+        <RepeatButton x:Name="WRIGHT" Content="STRETCH IN" HorizontalAlignment="Left" Margin="854,231,0,0" VerticalAlignment="Top" Width="87" Height="52" Click="sin"/>
+        <Label Content="ROBOT CONTROL APPLICATION" HorizontalAlignment="Left" Margin="400,38,0,0" VerticalAlignment="Top" Width="306" Height="36" FontSize="20" Background="#00000000" Foreground="Black"/>
+    </Grid>
+</Window>
