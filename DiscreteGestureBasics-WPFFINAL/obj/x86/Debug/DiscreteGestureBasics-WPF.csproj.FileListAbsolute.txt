@@ -1,0 +1,57 @@
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Desktop\NASA Capstone\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\handactions.gbd
+C:\Users\Julian\Desktop\NASA Capstone\KINECT\Kinect Applications\Kinect 2\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\App.g.cs
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\MainWindow.baml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPFtest2\bin\x86\Debug\Database\handactions3.gbd
